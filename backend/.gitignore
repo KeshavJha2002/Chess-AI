@@ -1,1 +1,4 @@
 virt_env/
+**/*.o
+**/*/.depend
+**/stockfish.exe
