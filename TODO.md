@@ -1,0 +1,6 @@
+- [ ] logic to generate invite links
+- [ ] ws server
+- [ ] dropdown box for first button
+- [ ] dropdown box for second button
+- [ ] setup stockfish
+- [ ] setup stockfish runner
